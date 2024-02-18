@@ -8,4 +8,4 @@ This calculator is is based on available data on the efficacy outcomes of compou
 The user is liable or responsible for any advice, decision, or any other information, services or product obtained by using this calculator. The user releases and discharges the authors of the ASM MPO calculator and their affiliates from any and all claims, liabilities, obligations, disputes, demands, damages, causes of action of any nature and kind, known or unknown, related to the use of the ASM MPO calculator.
 
 ## Download
-[Windows x64](./releases/Windows-x64/Eyal%20ASM%20MPO%20Calculator.exe)
+[Windows x64](https://raw.githubusercontent.com/IamAmitE/ASM-MPO-Calculator/main/releases/Windows-x64/Eyal%20ASM%20MPO%20Calculator.exe)
